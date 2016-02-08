@@ -6,7 +6,7 @@ A customised template for creating fully tested Angular applications, based on t
 ## Getting Started (for Mac)
 Close the repository using git (downloadable at http://git-scm.com/):
 
-```git clone <insert Github repo link here> ```
+```git clone https://github.com/Alaanzr/angular-project-template.git ```
 
 ### Installing dependencies
 
